@@ -3,8 +3,8 @@
 ## Tech Stack
 2lambda123/dash-yield-curve is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Python](https://www.python.org) – Languages
 
 Full tech stack [here](/techstack.md)
 
@@ -14,8 +14,8 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/dash-yield-curve is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 
 Full tech stack [here](/techstack.md)
 
@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/dash-yield-curve](https://github.com/2lambda123/dash-yield-curve)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|01/09/24 <br/>Report generated|
+|11<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -87,9 +87,9 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[dash](https://pypi.org/project/dash)|v0.35.1|01/17/19|cldougl |MIT|N/A|
-|[dash-core-components](https://pypi.org/project/dash-core-components)|v0.42.1|01/17/19|cldougl |MIT|N/A|
-|[dash-html-components](https://pypi.org/project/dash-html-components)|v0.13.4|01/17/19|cldougl |MIT|N/A|
+|[dash](https://pypi.org/project/dash)|v0.35.1|01/17/19|cldougl |MIT|[CVE-2024-21485](https://github.com/advisories/GHSA-547x-748v-vp6p) (Moderate)|
+|[dash-core-components](https://pypi.org/project/dash-core-components)|v0.42.1|01/17/19|cldougl |MIT|[CVE-2024-21485](https://github.com/advisories/GHSA-547x-748v-vp6p) (Moderate)|
+|[dash-html-components](https://pypi.org/project/dash-html-components)|v0.13.4|01/17/19|cldougl |MIT|[CVE-2024-21485](https://github.com/advisories/GHSA-547x-748v-vp6p) (Moderate)|
 |[gunicorn](https://pypi.org/project/gunicorn)|v19.7.1|07/13/17|Jack Luo |MIT|N/A|
 |[pandas](https://pypi.org/project/pandas)|v0.19.2|07/13/17|Jack Luo |BSD-3-Clause|N/A|
 |[plotly](https://pypi.org/project/plotly)|v2.4.1|02/22/18|chriddyp |MIT|N/A|
